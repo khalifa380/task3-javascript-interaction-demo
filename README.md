@@ -11,7 +11,7 @@ It demonstrates basic interactivity using **JavaScript**, allowing users to:
 
 ## 📸 Screenshot
 
-![Task 3 Screenshot](screenshot1.png)
+![Task 3 screenshot](screenshot1.png)
 
 ##  Technologies Used
 - HTML
